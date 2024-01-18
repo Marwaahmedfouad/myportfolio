@@ -164,3 +164,10 @@ font-weight: var(--weight--600);
 font-size: var(--small-font-size);
 line-height: 1.6;
 }
+.progress__box {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
