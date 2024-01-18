@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import profile from "../../assets/home1.jpeg";
+import profile from "../../assets/home.jpeg";
 import { Link } from "react-router-dom";
 import { FaArrowRight } from "react-icons/fa";
 import {

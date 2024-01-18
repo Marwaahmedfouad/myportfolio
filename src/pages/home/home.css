@@ -13,7 +13,8 @@
     width: 80%;
         /*x*/
     object-fit: cover;
-    border-radius:30% 70% 70% 30% / 30% 30% 70% 70%  ;
+    /* border-radius:30% 70% 70% 30% / 30% 30% 70% 70%  ; */
+    border-radius: 66% 92% 77% 40% / 97% 96% 71% 73%;
     box-shadow: 1px 2px 17px 5px var(--first-color);
     z-index: 1;
     animation: floatImage 4s ease-in-out infinite;
